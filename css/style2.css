@@ -1,0 +1,236 @@
+.form{
+
+	padding: 30px 40px 50px 50px;
+	width:100%;
+}
+
+
+
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body{
+
+	font-family: monospace;
+	font-size: 20px;
+	line-height: 24px;
+
+}
+*/
+
+/*.flag{
+	width: 100%;
+	background:rgb(255, 255, 255);
+	margin: 20px 200px 50px 200px;
+	height: 1400px;
+
+}
+.green{
+	width:370px;
+	height:150px;
+	background:rgb(0, 204, 0);
+	
+	position: relative;
+	box-shadow: 2px 2px 2px 2px rgb(128, 128, 128);
+
+
+}
+.red{
+	width: 90px;
+	height: 90px;
+	border-radius: 100%;
+	background-color: 	rgb(255, 0, 0);
+	position: absolute;
+	top:20%;
+	left:35.8%;
+	border: 100px rgb(250, 56, 56);
+	box-shadow: 1.6px 1.2px 1.2px 1.2px rgb(199, 107, 107);
+
+}
+.side{
+	width: 10px;
+	height: 400px;
+	background-color:rgb(204, 0, 0);
+	box-shadow: 2px 2.5px rgb(168, 138, 138)  ; 
+}
+.box{
+	width: 30px;
+	height: 20px;
+	position: absolute;
+	top:400px;
+	background-color: rgb(102, 0, 0);
+*/
+}
+.container{
+	width: 1140px;
+	height:0px auto;
+
+}
+.box1{
+	width: 50%;
+	height:400px;
+	background-color:rgb(255, 51, 51);
+	float: left;
+
+
+
+}
+.box2{
+	width: 30%;
+	height:100px;
+	background-color:rgb(102, 255, 153);
+	float: left;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.yellow{
+	width: 200px
+	height:200px
+	background:yellow;
+	position:absolute;
+	bottom: :0%;
+	left:0%;
+
+}
+.blue{
+	width: 200px
+	height:200px
+	background:yellow;
+	position:fixed;
+	/*top:0%;
+	left:3%;*/
+
+
+}
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.true{
+
+	background-color:rgb(255, 64, 0);
+	width: 1140px;
+	height: 630px;
+	padding: 50px;
+
+}
+.box{
+	background-color: 	rgb(64, 255, 0);
+	height: 550px;
+	width: 50%;
+	padding: 50px;
+
+
+}
+.true{
+	width: 60%;
+	height: 50px;
+	margin: 30px auto;
+	background-color: rgb(255, 255, 0);
+
+}
+.think{
+	padding: 50px;
+	margin: 20px;
+	width:400px;
+	height: 70px;
+	background-color: 	rgb(255, 0, 255);
+}
+
+.head{
+
+    background-color:rgb(253, 231, 253);
+    text-shadow: 1px 1px 2px red;
+    box-shadow: 10px 10px 15px grey;
+    
+    border: 10px;
+    border-color:rgb(255, 255, 179);
+    font-family: Tahoma, Geneva, sans-serif;
+}
+img{
+    float:left;
+    clip-path: circle(500px);
+    border: 19px solid burlywood;
+
+    
+}
+
+.first{
+    font-size: 35px;
+    background-color: burlywood;
+   box-shadow: 10px 10px 8px darkblue ;
+   border: 5px solid red;
+}
+
+
+
+
+*/
